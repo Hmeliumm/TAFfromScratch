@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 7.393 s <<< FAILURE! - in TestSuite
+testChatLinkClick(com.example.tests.ChatLinkTest)  Time elapsed: 0.127 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+	at com.example.tests.ChatLinkTest.testChatLinkClick(ChatLinkTest.java:13)
+
+testWeatherInLvivSearch(com.example.tests.WeatherSearchTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+	at com.example.tests.WeatherSearchTest.testWeatherInLvivSearch(WeatherSearchTest.java:15)
+

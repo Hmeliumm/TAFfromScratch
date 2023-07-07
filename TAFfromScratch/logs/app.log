@@ -1,0 +1,64 @@
+2023-07-07 22:17:17 INFO  WeatherSearchTest:18 - Test started
+2023-07-07 22:17:18 INFO  WeatherSearchTest:13 - Navigating to Bing homepage
+2023-07-07 22:17:18 INFO  WeatherSearchTest:16 - Entering weather search terms
+2023-07-07 22:17:19 INFO  WeatherSearchTest:18 - Checking search results
+2023-07-07 22:17:19 INFO  WeatherSearchTest:23 - Test finished
+2023-07-07 22:17:36 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:17:37 INFO  ChatLinkTest:12 - Navigating to Bing homepage
+2023-07-07 22:17:37 INFO  ChatLinkTest:16 - Clicking chat link
+2023-07-07 22:17:37 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:18:14 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:18:14 INFO  ChatLinkTest:12 - Navigating to Bing homepage
+2023-07-07 22:18:14 INFO  ChatLinkTest:16 - Clicking chat link
+2023-07-07 22:18:14 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:19:02 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:19:02 INFO  ChatLinkTest:12 - Navigating to Bing homepage
+2023-07-07 22:19:03 INFO  ChatLinkTest:16 - Clicking chat link
+2023-07-07 22:19:03 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:19:54 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:19:54 INFO  ChatLinkTest:12 - Navigating to Bing homepage
+2023-07-07 22:19:54 INFO  ChatLinkTest:16 - Clicking chat link
+2023-07-07 22:19:54 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:20:22 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:20:22 INFO  ChatLinkTest:12 - Navigating to Bing homepage
+2023-07-07 22:20:27 INFO  ChatLinkTest:16 - Clicking chat link
+2023-07-07 22:20:28 INFO  ChatLinkTest:19 - Checking chat pop-up
+2023-07-07 22:20:28 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:32:19 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:32:19 INFO  ChatLinkTest:15 - Navigating to Bing homepage
+2023-07-07 22:32:20 INFO  ChatLinkTest:18 - Clicking chat link
+2023-07-07 22:32:20 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:33:49 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:33:50 INFO  ChatLinkTest:15 - Navigating to Bing homepage
+2023-07-07 22:33:50 INFO  ChatLinkTest:18 - Clicking chat link
+2023-07-07 22:33:51 INFO  ChatLinkTest:23 - Checking chat pop-up
+2023-07-07 22:33:51 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 22:34:44 INFO  ChatLinkTest:18 - Test started
+2023-07-07 22:34:44 INFO  ChatLinkTest:16 - Navigating to Bing homepage
+2023-07-07 22:34:44 INFO  ChatLinkTest:19 - Clicking chat link
+2023-07-07 22:34:47 INFO  ChatLinkTest:24 - Checking chat pop-up
+2023-07-07 22:34:47 INFO  ChatLinkTest:23 - Test finished
+2023-07-07 23:18:07 INFO  SettingsTest:18 - Test started
+2023-07-07 23:18:07 INFO  SettingsTest:12 - Navigating to Bing homepage
+2023-07-07 23:18:08 INFO  SettingsTest:16 - Opening the hamburger menu
+2023-07-07 23:18:08 INFO  SettingsTest:23 - Test finished
+2023-07-07 23:19:00 INFO  SettingsTest:18 - Test started
+2023-07-07 23:19:00 INFO  SettingsTest:12 - Navigating to Bing homepage
+2023-07-07 23:19:00 INFO  SettingsTest:16 - Opening the hamburger menu
+2023-07-07 23:19:00 INFO  SettingsTest:23 - Test finished
+2023-07-07 23:19:26 INFO  SettingsTest:18 - Test started
+2023-07-07 23:19:26 INFO  SettingsTest:12 - Navigating to Bing homepage
+2023-07-07 23:19:26 INFO  SettingsTest:16 - Opening the hamburger menu
+2023-07-07 23:19:26 INFO  SettingsTest:23 - Test finished
+2023-07-07 23:21:09 INFO  SettingsTest:18 - Test started
+2023-07-07 23:21:10 INFO  SettingsTest:15 - Navigating to Bing homepage
+2023-07-07 23:21:10 INFO  SettingsTest:19 - Opening the hamburger menu
+2023-07-07 23:21:11 INFO  SettingsTest:23 - Navigating to settings
+2023-07-07 23:21:11 INFO  SettingsTest:23 - Test finished
+2023-07-07 23:24:14 INFO  SettingsTest:18 - Test started
+2023-07-07 23:24:14 INFO  SettingsTest:15 - Navigating to Bing homepage
+2023-07-07 23:24:14 INFO  SettingsTest:19 - Opening the hamburger menu
+2023-07-07 23:24:16 INFO  SettingsTest:23 - Navigating to settings
+2023-07-07 23:24:16 INFO  SettingsTest:26 - Clicking on 'More'
+2023-07-07 23:24:16 INFO  SettingsTest:29 - Verifying that the settings page is opened
+2023-07-07 23:24:16 INFO  SettingsTest:23 - Test finished
